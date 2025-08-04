@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ru.productstar.testrunners.TransportationTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.068 s -- in ru.productstar.testrunners.TransportationTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.187 s -- in ru.productstar.testrunners.TransportationTest
